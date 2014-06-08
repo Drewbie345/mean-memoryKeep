@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Over+the+Rainbow);
+
+body { font-family: 'Alegreya Sans SC'; background-image: url('../img/grandma_hands.jpg'); background-size: cover; }
+
+.navbar-brand { font-family: 'Over the Rainbow'; }
+
+.content {
+	margin-top: 50px;
+}
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
